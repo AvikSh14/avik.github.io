@@ -3,8 +3,6 @@ logo: "/images/pic_b4_coffee.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Software Engineer
   <br><br>
-  Second description 
-  <br><br>
   <a href="https://www.linkedin.com/in/avik-chowdhury/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
