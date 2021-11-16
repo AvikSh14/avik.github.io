@@ -2,7 +2,7 @@
 
 ---
 
-##Experience
+## Experience
 
 **Software Engineer**
 *Progoti Systems Limited*
@@ -21,7 +21,7 @@ purchases.
 • Worked on two First Person Shooting games in Unity 3D and in one of them developed a module to destroy a
 bridge using unity physics.
 
-###Projects
+## Projects
 
 [TallyKhata](https://play.google.com/store/apps/details?id=com.progoti.tallykhata&hl=en&gl=US)
 
