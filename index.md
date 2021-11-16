@@ -4,7 +4,7 @@
 
 ## Experience
 
-**Software Engineer**
+**Software Engineer**  
 *Progoti Systems Limited*
 
 - Built a digital financial android app which includes digital payment through QR code, send money between wallets, mobile top-up etc.
@@ -14,7 +14,7 @@ purchases.
 - Integrated REST client using Retrofit in two android applications.
 - Developed few APIs to sync data from client to server in a backend application using Django rest framework.
 
-**Game Developer**
+**Game Developer**  
 *Portbliss Limited*
 
 - Developed a prototype of UNO card game.
