@@ -4,7 +4,22 @@
 
 ##Experience
 
+**Software Engineer**
+*Progoti Systems Limited*
 
+• Built a digital financial android app which includes digital payment through QR code, send money between wallets, mobile top-up etc.
+• Introduced MVVM(Model-View-ViewModel) architecture in two existing android applications.
+• Developed an android app targeted to micro merchants to keep track of their daily sales, credits, cash sales and
+purchases.
+• Integrated REST client using Retrofit in two android applications.
+• Developed few APIs to sync data from client to server in a backend application using Django rest framework.
+
+**Game Developer**
+*Portbliss Limited*
+
+• Developed a prototype of UNO card game.
+• Worked on two First Person Shooting games in Unity 3D and in one of them developed a module to destroy a
+bridge using unity physics.
 
 ###Projects
 
@@ -36,7 +51,7 @@ activity in an AsyncTask class.
 • Implemented sniper shooting module.
 
 ---
-[NoboPay : Digital Payment App]
+NoboPay : Digital Payment App
 
 • Developed shake and pay feature; which opens a scanner to scan QR code for payment when user shakes the app.
 
@@ -46,13 +61,6 @@ activity in an AsyncTask class.
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
